@@ -28,9 +28,9 @@ pip install matplotlib
 
 ## Examples below
 
-[Table]()
+[Table](https://github.com/ScientiaCapital/BTC-Arbitrage-Assessment/blob/main/Screen%20Shot%202021-04-18%20at%201.22.59%20PM.png)
 
-[Plot]()
+[Plot](https://github.com/ScientiaCapital/BTC-Arbitrage-Assessment/blob/main/Screen%20Shot%202021-04-18%20at%201.23.28%20PM.png)
 
 ---
 
