@@ -2,7 +2,7 @@
 
 According to _investorpedia.com_, "Arbitrage is the simultaneous purchase and sale of the same asset in different markets in order to profit from tiny differences in the asset's listed price. It exploits short-lived variations in the price of identical or similar financial instruments in different markets or in different forms."
 
-![Bitcoin Arbitrage Assessment: Bitstamp vs. Coinbase](https://github.com/ScientiaCapital/BTC-Arbitrage-Assessment/blob/main/image_1.jpg)
+[Bitcoin Arbitrage Assessment: Bitstamp vs. Coinbase](https://github.com/ScientiaCapital/BTC-Arbitrage-Assessment/blob/main/image_1.jpg)
 
 ---
 
